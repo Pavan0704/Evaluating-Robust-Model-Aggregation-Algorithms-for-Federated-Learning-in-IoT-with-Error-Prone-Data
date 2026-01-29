@@ -1,0 +1,2 @@
+# Evaluating-Robust-Model-Aggregation-Algorithms-for-Federated-Learning-in-IoT-with-Error-Prone-Data
+A comprehensive Federated Learning (FL) simulation pipeline designed to evaluate the robustness of various aggregation algorithms against data corruption in IoT environments. This repository implements and compares FedAvg, Trimmed Mean, and Krum strategies using a PyTorch-based Multi-Layer Perceptron (MLP).
